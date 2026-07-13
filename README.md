@@ -4,7 +4,7 @@ I tested the beta version of Yandex Maps for iOS and Android.
 
 - [Checklist](https://docs.google.com/document/d/1A56jLsvDqz95RW4A9BUc4cHPNY63OtcTjo5dztQlKZQ/edit?tab=t.0)
 - [Test cases](link)
-- [Bug reports](link)
+- [Bug reports](https://drive.google.com/drive/folders/1A2K3MDN46jMqs51_Vr1iQxrhEU06RXxA?usp=drive_link)
 - [Test summary report](link)
 
 
