@@ -1,6 +1,6 @@
 # 📱 Mobile App Testing — Yandex Maps (Beta)
 
-I tested the beta version of Yandex Maps and Navigator for iOS.
+I tested the beta version of Yandex Maps for iOS and Android.
 
 ## Environment
 - Device: iPhone 17, Samsung A32
